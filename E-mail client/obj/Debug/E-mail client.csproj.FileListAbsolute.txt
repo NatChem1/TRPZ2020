@@ -1,0 +1,15 @@
+C:\Users\Zimbo\source\repos\E-mail client\E-mail client\bin\Debug\E-mail client.exe.config
+C:\Users\Zimbo\source\repos\E-mail client\E-mail client\bin\Debug\E-mail client.exe
+C:\Users\Zimbo\source\repos\E-mail client\E-mail client\bin\Debug\E-mail client.pdb
+C:\Users\Zimbo\source\repos\E-mail client\E-mail client\obj\Debug\E-mail client.csprojAssemblyReference.cache
+C:\Users\Zimbo\source\repos\E-mail client\E-mail client\obj\Debug\MainWindow.g.cs
+C:\Users\Zimbo\source\repos\E-mail client\E-mail client\obj\Debug\App.g.cs
+C:\Users\Zimbo\source\repos\E-mail client\E-mail client\obj\Debug\E-mail client_MarkupCompile.cache
+C:\Users\Zimbo\source\repos\E-mail client\E-mail client\obj\Debug\E-mail client_MarkupCompile.lref
+C:\Users\Zimbo\source\repos\E-mail client\E-mail client\obj\Debug\MainWindow.baml
+C:\Users\Zimbo\source\repos\E-mail client\E-mail client\obj\Debug\E-mail client.g.resources
+C:\Users\Zimbo\source\repos\E-mail client\E-mail client\obj\Debug\E_mail_client.Properties.Resources.resources
+C:\Users\Zimbo\source\repos\E-mail client\E-mail client\obj\Debug\E-mail client.csproj.GenerateResource.cache
+C:\Users\Zimbo\source\repos\E-mail client\E-mail client\obj\Debug\E-mail client.csproj.CoreCompileInputs.cache
+C:\Users\Zimbo\source\repos\E-mail client\E-mail client\obj\Debug\E-mail client.exe
+C:\Users\Zimbo\source\repos\E-mail client\E-mail client\obj\Debug\E-mail client.pdb
